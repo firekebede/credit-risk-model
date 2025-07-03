@@ -1,0 +1,8 @@
+aliases:
+  prod: '1'
+creation_timestamp: 1751460523087
+deployment_job_id: null
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1751545872113
+name: credit_risk_classifier

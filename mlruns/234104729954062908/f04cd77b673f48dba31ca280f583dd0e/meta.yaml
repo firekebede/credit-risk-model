@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/credit-risk-model/mlruns/234104729954062908/f04cd77b673f48dba31ca280f583dd0e/artifacts
+end_time: 1751460535327
+entry_point_name: ''
+experiment_id: '234104729954062908'
+lifecycle_stage: active
+run_id: f04cd77b673f48dba31ca280f583dd0e
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751460523297
+status: 3
+tags: []
+user_id: Administrator

@@ -1,2 +1,6 @@
 mlflow
 pytest
+fastapi
+uvicorn
+flake8
+mlflow
